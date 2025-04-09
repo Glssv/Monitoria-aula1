@@ -1,4 +1,7 @@
-## Revisão | 🧠 Sintaxe básica
+# Aqui começa uma aventura no mundo do código! 🥳💜
+
+
+## Revisão | Sintaxe básica
 
 ### 🔠 Títulos
 
