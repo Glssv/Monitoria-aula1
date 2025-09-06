@@ -1,65 +1,25 @@
 # Aqui começa uma aventura no mundo do código! 🥳💜
 
-
-## Revisão | Sintaxe básica
-
-### 🔠 Títulos
-
-É só usar `#` na frente da frase. Quanto mais `#`, menor o título.
-
-# Título 1
-## Título 2
-### Título 3
-#### Título 4
-
-**Texto em negrito**
-
-*Texto em itálico*
-
-~~Texto riscado~~
-
-🔗 Links
-[Texto do link](https://www.site.com)
-
-✅ Listas
-Lista com bolinhas (não ordenada):
-
-- Item 1
-- Item 2
-- Item 3
-  
-Lista numerada (ordenada):
-
-1. Primeiro
-2. Segundo
-3. Terceiro
-
-<hr>
-
 ## 🏠 Atividade de Casa
 
-### 🟣 1. Projeto “Meus Filmes Favoritos” 🎬
+Para esta atividade, você vai criar um arquivo chamado README.md com uma apresentação feita por você.
+Use os elementos de Markdown que aprendemos para contar um pouco sobre sua jornada, seus sonhos e tudo que te inspira nesse começo.
 
-**Passos sugeridos:**
+###  🌱 O essencial para essa atividade:
 
-1. Criar um `README.md` com:
-   - Um **título**
-   - Uma **lista com pelo menos 5 filmes**
-   - Um **link para o trailer** de um deles
-   - Uma **imagem do seu favorito**
-2. Fazer **commit** e subir pro **GitHub**
-
+1. **Título principal** com seu nome
+2. **Subtítulo** com uma frase que represente o seu sonho, onde você quer chegar? O que te move?
+3. **Parágrafo com negrito e itálico** falando sobre você
+4. **Lista com marcadores** de coisas que você ama ou te inspiram
+5. **Lista numerada** com conselhos que você daria para a você mesma no futuro, como lembretes, motivações ou aprendizados que não quer esquecer
+6. Um **comando ou código inline** com algum comando que você aprendeu ou quer aprender
+7. Um **link** para algo que te inspira: pode ser uma música, um vídeo, uma comunidade, uma pessoa
+8. Uma **imagem** que te represente ou que você ache bonita — pode ser sua, uma arte, um avatar
+9. Uma **linha horizontal** para separar as seções
+   
 ---
 
-### 🟣 2. Desafio “Markdown Chef 👩‍🍳”
-
-🎯 **Objetivo:** praticar mais elementos de Markdown
-
-- Um **título grande**
-- Uma **imagem do prato**
-- **Ingredientes** em lista com marcadores
-- **Passos numerados** (modo de preparo)
-- Um **link** de onde achou a receita
+Lembre-se: cada linha desse arquivo diz um pouquinho sobre quem você é e onde quer chegar. Pense nesse README como o primeiro tijolinho do seu portfólio, simples, mas que representa o início da sua jornada na programação 💜  
 
 ---
 <br>
